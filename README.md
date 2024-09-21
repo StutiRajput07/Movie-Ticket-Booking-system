@@ -1,5 +1,6 @@
 # Movie-Ticket-Booking
-How to create Movie Ticket Booking System in C++ using MySQL & OOP.
-If you want to watch the video for better understanding about the given code then click on the give link:
-https://youtu.be/Yb6PQ2D8cHY
+## Features:
+- Developed a C++-based Movie Ticket Booking System with a dynamic seating arrangement and real-time seat reservation functionality.
+- Integrated MySQL for persistent storage of seat availability, ticket booking records, and user interactions, ensuring data consistency across sessions.
+- Implemented an interactive user interface that displays seat status and allows users to book tickets, with real-time updates to the database.
  
