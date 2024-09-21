@@ -1,4 +1,4 @@
-# Movie-Ticket-Booking
+# Movie-Ticket-Booking System using C++
 ## Features:
 - Developed a C++-based Movie Ticket Booking System with a dynamic seating arrangement and real-time seat reservation functionality.
 - Integrated MySQL for persistent storage of seat availability, ticket booking records, and user interactions, ensuring data consistency across sessions.
